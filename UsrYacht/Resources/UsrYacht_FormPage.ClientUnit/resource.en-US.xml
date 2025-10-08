@@ -5,8 +5,10 @@
 			<Item Name="Caption" Value="Yacht form page" />
 			<Item Name="LocalizableStrings.addRecord_146b1rf_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_7qmp6i5_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_d1o53zn_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_kvgadxn_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_n5qdqkg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xteq9rz_caption.Value" Value="Add new" />
 		</Items>
 	</Group>
 </Resources>

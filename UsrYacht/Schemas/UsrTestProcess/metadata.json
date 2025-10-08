@@ -62,22 +62,6 @@
       "BK5": [],
       "BK4": [
         {
-          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
-          "UId": "817d93b8-fa70-48bd-9a55-9b80e74455e1",
-          "A2": "StartEvent1",
-          "A3": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
-          "A4": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
-          "A5": "4e857f32-523e-4fda-9cde-d01e19294716",
-          "IL2": "7c5074dc-9007-499d-afe8-deaaccd2fdc5",
-          "BL3": "50;184",
-          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
-          "BL8": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
-          "BN2": "31;31",
-          "BO3": true,
-          "FC1": [],
-          "ED1": false
-        },
-        {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
           "UId": "b9719aa5-237c-466b-84e0-3e66d5fec05b",
           "A2": "TerminateEvent1",
@@ -91,6 +75,27 @@
           "BN2": "31;31",
           "BO3": true,
           "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartTimerEvent",
+          "UId": "817d93b8-fa70-48bd-9a55-9b80e74455e1",
+          "A2": "StartTimerEvent1",
+          "A3": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
+          "A4": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
+          "A5": "4e857f32-523e-4fda-9cde-d01e19294716",
+          "IL2": "7c5074dc-9007-499d-afe8-deaaccd2fdc5",
+          "BL3": "50;184",
+          "BL7": "c735ed92-e545-4699-b3c6-f8f57dd8c529",
+          "BL8": "58a78e0d-f93a-408e-950e-81f6dff24fb1",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false,
+          "PS1": "0 0 3 ? * 2,3,4,5,6 *",
+          "PS3": 3,
+          "PS4": "null",
+          "PS5": "null",
+          "PS6": "UTC"
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
