@@ -9,6 +9,17 @@
 			<Item Name="LocalizableStrings.addRecord_kvgadxn_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_n5qdqkg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_xteq9rz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CrewNumberCannotBeLess.Value" Value="Crew number cannon be less than 1." />
+			<Item Name="LocalizableStrings.ExpansionPanel_7wvv47n_title.Value" Value="Yacht Rental" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_z4waw2x_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_elfow28_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_0y4xrwq_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_vofhate_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_tvuatex_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_zvvpx82_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.LengthCannotBeLess.Value" Value="Length cannot be less than 3 m." />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager Email" />
+			<Item Name="LocalizableStrings.PassengersNumberCannotBeLess.Value" Value="Passengers number cannon be less than 1." />
 		</Items>
 	</Group>
 </Resources>
