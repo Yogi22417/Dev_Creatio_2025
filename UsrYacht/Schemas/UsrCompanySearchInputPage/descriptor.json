@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "83feee0b-76a3-4dba-b067-c1f201359c3f",
+    "Name": "UsrCompanySearchInputPage",
+    "ModifiedOnUtc": "\/Date(1760692040000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Company Search Input Page"
+  }
+}
